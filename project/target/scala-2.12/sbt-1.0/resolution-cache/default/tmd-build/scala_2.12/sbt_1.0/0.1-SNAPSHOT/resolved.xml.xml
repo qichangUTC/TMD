@@ -4,7 +4,7 @@
 		module="tmd-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20171031093514"
+		publication="20171031143344"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

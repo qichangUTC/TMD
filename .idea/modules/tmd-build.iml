@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="tmd-build" external.linked.project.path="$MODULE_DIR$/../../project" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" sbt.imports="_root_.sbt.Keys._, _root_.sbt._, _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.scala.xml.{TopScope=&gt;SUB:DOLLARscope}" sbt.resolvers="https://repo1.maven.org/maven2/|maven|public, file:/home/chang/.sbt/preloaded|maven|local-preloaded, /home/chang/.ivy2/cache|ivy|Local cache" type="SBT_MODULE" version="4">
+<module external.linked.project.id="tmd-build" external.linked.project.path="$MODULE_DIR$/../../project" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" sbt.imports="_root_.sbt.Keys._, _root_.sbt._, _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.scala.xml.{TopScope=&gt;SUB:DOLLARscope}" sbt.resolvers="https://repo1.maven.org/maven2/|maven|public, file:/C:/Users/cqi/.sbt/preloaded|maven|local-preloaded, C:\Users\cqi\.ivy2\cache|ivy|Local cache" type="SBT_MODULE" version="4">
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../project/target/idea-classes" />
     <output-test url="file://$MODULE_DIR$/../../project/target/idea-test-classes" />
@@ -94,9 +94,10 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="org.apache.spark:spark-core_2.11:2.2.0" level="project" />
-    <orderEntry type="library" name="org.apache.spark:spark-sql_2.11:2.2.0" level="project" />
-    <orderEntry type="library" name="org.apache.spark:spark-mllib_2.11:2.2.0" level="project" />
-    <orderEntry type="library" name="org.apache.spark:spark-streaming_2.11:2.2.0" level="project" />
     <orderEntry type="library" name="org.apache.spark:spark-graphx_2.11:2.2.0" level="project" />
+    <orderEntry type="library" name="org.apache.spark:spark-mllib_2.11:2.2.0" level="project" />
+    <orderEntry type="library" name="org.apache.spark:spark-sql_2.11:2.2.0" level="project" />
+    <orderEntry type="library" name="org.apache.spark:spark-streaming_2.11:2.2.0" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.8:jar" level="project" />
   </component>
 </module>
